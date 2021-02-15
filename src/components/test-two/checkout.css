@@ -1,0 +1,104 @@
+.parent-cont {
+    display: flex;
+    justify-content: center;
+}
+
+.outer-cont {
+    display: flex;
+    justify-content: center;
+    height: 700px;
+    width: 50%;
+    background-color: #3f51b5;
+}
+
+.inner-cont {
+    width: 87%;
+    margin: 20px;
+    padding: 30px;
+    background-color: #ffffff;
+    border-radius: 25px;
+}
+
+.border-line {
+    border: 1px solid #dedede;
+    margin: 25px 0px 25px 0px;
+}
+
+.options-cont {
+    display: flex;
+    justify-content: space-around;
+}
+
+.bold-grey-cls  {
+    font-weight: bold;
+    color: #b7b7c9;
+}
+
+.bold-blue-cls  {
+    font-weight: bold;
+    color: #3f51b5;
+}
+
+.bold-black-cls  {
+    font-weight: bold;
+    color: #3f51b5;
+}
+
+.error-font {
+    font-size: 12px;
+    color: red
+}
+
+.fst-form-cont {
+    display: flex;
+    flex-direction: column;
+    margin-left: 35px;
+}
+
+.input-cls {
+    background-color: #efefef;
+    height: 40px;
+    width: 90%;
+    border: none;
+    border-radius: 5px;
+}
+
+.input-card-cls {
+    background-color: #efefef;
+    height: 40px;
+    width: 90%;
+    border: none;
+    border-radius: 5px;
+}
+
+.input-exp-cls {
+    background-color: #efefef;
+    height: 40px;
+    width: 40%;
+    border: none;
+    border-radius: 5px;
+}
+
+.sbmt-cls {
+    background-color: #cdfcfc;
+    height: 40px;
+    width: 90%;
+    border: none;
+    border-radius: 5px;
+}
+
+.flex-info {
+    display: flex;
+}
+
+.full-width {
+    width: 100%;
+}
+
+.success-view-cont {
+    height: 400px;
+    display: flex;
+    background-color: darksalmon;
+    align-items: center;
+    justify-content: center;
+}

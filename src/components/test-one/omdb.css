@@ -1,0 +1,24 @@
+.omdb-card-cont {
+    border: 5px solid #000;
+    padding: 20px;
+    margin: 25px 10px 10px 10px;
+    display: flex;
+    cursor: pointer;
+    width: 45%;
+}
+
+.omdb-card-details {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.omdb-card {
+    display: flex;
+    flex-flow: wrap;
+    justify-content: center;
+}
+
+.search-row-cls {
+    display: flex;
+    justify-content: space-between;
+}

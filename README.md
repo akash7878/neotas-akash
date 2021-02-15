@@ -1,6 +1,6 @@
 # Getting Started with App
 
-Kindly checkout the main branch and follow the steps
+Kindly clone the project using >     git clone https://github.com/akash7878/neotas-akash.git
 
 # Step 1
 

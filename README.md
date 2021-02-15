@@ -1,6 +1,6 @@
 # Getting Started with App
 
-Kindly follow the steps
+Kindly checkout the main branch and follow the steps
 
 # Step 1
 
